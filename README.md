@@ -15,7 +15,7 @@ The project studies the employee data of a company.
 
 2. Approximately 36,000+ engineers are retiring. These are highly technical roles, which would require specific qualifications from candidates. Therefore, the company must try to allocate most resources to replenishing and training the engineering department
 
-3. There are fewer employees avaible to train than there will be requiring training. This can overcome by having 1 employee train multiple people. However, as can be seen in the following table, the ratio of trainees to trainers is incredibly high for certain titles (Senior Engineers, Senior Staff and Technique Leaders)
+3. There are fewer employees avaible to train than there will be requiring training. This can overcome by having 1 employee train multiple people. However, as can be seen in the following table, the ratio of trainees to trainers is incredibly high for certain titles (Senior Engineers, Senior Staff and Technique Leaders). Since these are senior positions, the company should try to promote internal employees from the same department instead of hiring external ones, so that the training burden is lessened. This way, the older employees (who have now been promoted) will be available to train the newer ones, but also require much less training/mentoring themselves for the senior positions they will now be holding.
 
 | Title | Employees Retiring | Employees in Mentorship Program | # of Trainees per Mentor | 
 | --- | :---: | :---: | :---: |
@@ -27,7 +27,6 @@ The project studies the employee data of a company.
 | Staff | 7636 | 290 | 26 |
 | Technique Leader | 3603 | 77 | 47 |
 
-Since these are senior positions, the company should try to promote internal employees from the same department instead of hiring external ones, so that the training burden is lessened. This way, the older employees (who have now been promoted) will be available to train the newer ones, but also require much less training/mentoring themselves for the senior positions they will now be holding.
 
 4. The employees in the mentorship program will be retiring in 10 years, instead of facing a similar situation, the company can start hiring newer employees in batches over the entire decade. Pewlett Hackard can also start preparing lucrative retirement packages should they feel that they have more employees than they should, and can offer early retirement to some of their employees
 
@@ -39,7 +38,7 @@ Since these are senior positions, the company should try to promote internal emp
 Ans. The following number of employees for each title are about to retire from the company:
 
 <p align="center">
-<img src="/Resources/retiring_employees.png" width="80%" height="40%">
+<img src="/Resources/retiring_employees.png" width="50%" height="25%">
 </p>
 
 
@@ -48,7 +47,7 @@ Ans. The following number of employees for each title are about to retire from t
 Ans. The following number of employees for each title are qualified to mentor new employees joining the company:
 
 <p align="center">
-<img src="/Resources/mentorship_employees.png" width="80%" height="40%">
+<img src="/Resources/mentorship_employees.png" width="50%" height="25%">
 </p>
 
 As can be seen from the 2 tables above, unfortunately there aren't enough employees in all departments to mentor the next generation of Pewlett Hackard employees 
