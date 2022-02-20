@@ -38,7 +38,7 @@ The project studies the employee data of a company.
 Ans. The following number of employees for each title are about to retire from the company:
 
 <p align="center">
-<img src="/Resources/retiring_employees.png" width="20%" height="15%">
+<img src="/Resources/retiring_employees.png" width="25%" height="20%">
 </p>
 
 
@@ -47,7 +47,7 @@ Ans. The following number of employees for each title are about to retire from t
 Ans. The following number of employees for each title are qualified to mentor new employees joining the company:
 
 <p align="center">
-<img src="/Resources/mentorship_employees.png" width="20%" height="15%">
+<img src="/Resources/mentorship_employees.png" width="25%" height="20%">
 </p>
 
 As can be seen from the 2 tables above, unfortunately there aren't enough employees in all departments to mentor the next generation of Pewlett Hackard employees 
